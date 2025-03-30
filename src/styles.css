@@ -1,0 +1,12 @@
+/* Reset body styles */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: contents;
+}
+
+/* Ensure root takes full width */
+#root {
+  display: contents;
+}

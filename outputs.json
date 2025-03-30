@@ -1,0 +1,10 @@
+{
+  "GutenbergStack": {
+    "BucketName": "mc-gutenberg",
+    "CloudFrontUrl": "https://dl10u8g6h74oc.cloudfront.net",
+    "ApiUrl": "https://gmyb98n6d5.execute-api.us-west-2.amazonaws.com/prod/",
+    "GutenbergApiEndpointA22E8606": "https://gmyb98n6d5.execute-api.us-west-2.amazonaws.com/prod/",
+    "CloudFrontDistributionId": "E3GZBSJJME4LC5",
+    "LambdaName": "gutenberg-lambda"
+  }
+}
