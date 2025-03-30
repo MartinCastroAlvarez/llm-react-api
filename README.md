@@ -12,6 +12,11 @@ The application is deployed on AWS using the AWS Cloud Development Kit (CDK), wh
 
 ![example1.png](example1.png)
 
+## References
+
+- [React Flow](https://reactflow.dev/learn)
+- [Guternberg Org](https://www.gutenberg.org/ebooks/1787)
+
 ## Notes
 
 - To avoid high expenses associated with real LLM processing, this project uses mocked results.
@@ -22,11 +27,6 @@ The application is deployed on AWS using the AWS Cloud Development Kit (CDK), wh
 - No testing is implemented, in order to keep the project simple.
 - The API host is hardcoded in the frontend, in order to keep the project simple.
 - Prompt engineering is not part of this prototype, to keep it within 1 hour of coding.
-
-## References
-
-- [React Flow](https://reactflow.dev/learn)
-- [Guternberg Org](https://www.gutenberg.org/ebooks/1787)
 
 ## Setup
 
